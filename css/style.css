@@ -1787,4 +1787,18 @@
   .container .content .presentation .video-wrapper .video-overlay .video_paragraph {
     max-width: 100%;
   }
+  .container .content .mobile .mobile_content {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .container .content .mobile .mobile_img {
+    width: 80%;
+  }
+  .container .content .counters .counters_figure {
+    padding: 25px;
+  }
+  .container .content .recent {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
